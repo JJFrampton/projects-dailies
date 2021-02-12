@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Dailies App
+
+This is a simple app designed to track execution of daily tasks
+
+See wireframes/ for more information on the app design and ideas
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
