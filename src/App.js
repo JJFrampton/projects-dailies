@@ -6,10 +6,10 @@ import {
   Link,
   useParams
 } from "react-router-dom";
-import Dashboard from './Dashboard'
-import Create from './Create'
-import Details from './Details'
-import About from './About'
+import Dashboard from './components/dashboard/Dashboard'
+import Create from './components/create/Create'
+import Details from './components/details/Details'
+import About from './components/about/About'
 
 function App() {
   return (
